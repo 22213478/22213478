@@ -1,4 +1,12 @@
-### Hi there 👋
+##Introduction
+안녕하세요.
+영남대 컴퓨터과학과 김진선입니다.
+##career
+영남대 컾뮤터과학과 재학중
+##LINK
+22213478@gmail.com
+
+
 
 <!--
 **22213478/22213478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

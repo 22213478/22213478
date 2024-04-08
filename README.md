@@ -1,12 +1,13 @@
-#Introduction
+# Introduction
   안녕하세요.
   영남대 컴퓨터공학과 김진선입니다.
 
-##career
+## career
   영남대 컴퓨터공학과 재학중
 
-##LINK
+### LINK
   22213478@gmail.com
+  
 
 
 
